@@ -1,0 +1,4 @@
+project: PROJECT
+target: fuzz_cluster_controller
+cmds:
+- cmd: /out/fuzz_cluster_controller
